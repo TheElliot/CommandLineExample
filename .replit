@@ -1,1 +1,1 @@
-run="clang++-7 -pthread -std=c++17 -o command CommandLineExample.cpp && ./command"
+run="clang++-7 -pthread -std=c++17 -o command CommandLineExample.cpp && ./command John && ./command"

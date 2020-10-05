@@ -10,6 +10,6 @@ int main(int argc, char* argv[]) {
         return 1;
     }
     // Print the user's name:
-    std::cout << "PARAMETER: " << argv[1] << "\nPROGRAM NAME, " << argv[0] << "!" << std::endl;
+    std::cout << "PARAMETER: " << argv[1] << "\nPROGRAM NAME: " << argv[0] << "!" << std::endl;
     return 0;
 }
